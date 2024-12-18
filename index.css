@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: darkslategray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: bisque;
+}
+h2{
+    height: 150px;
+    margin-top: 25px;
+    margin-bottom: -150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 25px;
+    padding: 15px;
+    text-align: start;
+    background-color: cadetblue;
+}
+h3{
+    margin-top: 5px;
+    color: aqua;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    text-align: start;
+    font-size: 15px;
+}
